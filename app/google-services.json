@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "988996725676",
+    "firebase_url": "https://gbrbtnguard.firebaseio.com",
+    "project_id": "gbrbtnguard",
+    "storage_bucket": "gbrbtnguard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988996725676:android:637c1873e9d0c398",
+        "android_client_info": {
+          "package_name": "com.tamtam.root.gbrbguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988996725676-qrapup43a4ofq2q1v6d5fnu4objamo2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7OgabJEVQe5QTrGHzkZCdnMXXdoZKBsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
